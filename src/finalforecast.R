@@ -8,7 +8,7 @@ library(lubridate)
 decision <- "Automatic"
 num_months <- 48
 #Import
-main <- read_csv("/Users/fschmidt/Desktop/AI Modeling/final.csv")
+main <- read_csv("final.csv")
 
 #Readability, not necessary on newest pipeline version
 main <- main %>%
