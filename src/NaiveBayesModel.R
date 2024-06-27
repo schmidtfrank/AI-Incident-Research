@@ -1,5 +1,5 @@
 #Set Up
-setwd("~/scratch/Garza")
+setwd("~/scratch/")
 library(dplyr)
 library(caret)
 library(e1071)
